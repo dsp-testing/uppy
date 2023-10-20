@@ -13,7 +13,7 @@
     "@uppy/core": "file:../../packages/@uppy/core"
   },
   "devDependencies": {
-    "vite": "^1.0.0-rc.13",
+    "vite": "^4.5.0",
     "@vue/compiler-sfc": "^3.0.4"
   }
 }
