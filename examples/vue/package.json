@@ -9,7 +9,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "shallow-equal": "^1.2.1",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "@uppy/vue": "file:../../packages/@uppy/vue"
   },
   "devDependencies": {
